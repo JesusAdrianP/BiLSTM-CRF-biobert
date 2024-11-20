@@ -5,7 +5,7 @@ python3.10 -m venv venv
 
 activar entorno virtual:  
 en linux:  
-source venv/bin/activate
+source venv/bin/activate  
 en windows:  
 source venv/scripts/activate
 
