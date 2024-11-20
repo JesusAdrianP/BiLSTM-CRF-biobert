@@ -8,5 +8,4 @@ tqdm==4.66.4
 typing-extensions==4.0.0
 matplotlib
 pandas
-jupyter
 datasets
