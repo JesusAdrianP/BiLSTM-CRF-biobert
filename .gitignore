@@ -1,0 +1,19 @@
+# Ignorar carpetas y archivos dentro de la carpeta inputs
+inputs/
+
+# Ignorar carpetas y archivos dentro de la carpeta outputs
+outputs/
+
+# Ignorar .ipynb_checkpoints
+.ipynb_checkpoints/
+
+# Ignorar la carpeta venv (virtualenv)
+venv/
+
+# Ignorar la carpeta ccfasttext
+ccfasttext/
+
+# Ignorar archivos de caché de Python
+__pycache__/
+*.pyc
+*.pyo
