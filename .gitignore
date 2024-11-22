@@ -9,6 +9,7 @@ outputs/
 
 # Ignorar la carpeta venv (virtualenv)
 venv/
+.venv/
 
 # Ignorar la carpeta ccfasttext
 ccfasttext/
