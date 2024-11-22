@@ -12,5 +12,4 @@ source venv/scripts/activate
 instalar librerias:  
 pip install -r requirements.txt
 
-ejecutar:  
-jupyter lab
+Para el modelo que utiliza embeddings en la carpeta "inputs" se debe agregar el archivo .txt vectorizado con el nombre: text_fasttext_skip_model_300
